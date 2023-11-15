@@ -1,0 +1,2 @@
+/*Nella Sourches del browser vedimao solo app.js di default, per debugare il ts quindi non è il massimo, abilitando dentro tsconfig.json
+il target sourchmap ci permette di visualizzare nella sourches il file ts*/
