@@ -11,7 +11,7 @@ class Try{
         console.log("oggetto prova");
     }
 }
-//decorator factory
+//decorator factory (funzione decorator)
 
 function Log(messaggio: string){
     return function(constructor:any){
