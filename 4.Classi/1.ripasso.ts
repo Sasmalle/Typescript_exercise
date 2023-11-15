@@ -47,7 +47,7 @@ class Persona3{
         console.log(`ciao ${persona.nome}, molto piacere`);
     }
 }
-//classe figlia con costruttore super
+//classe figlia con costruttore super (non posso estendere più classi in una)
 class Studente extends Persona{
     constructor(nome: string, cognome: string, private materiapreferita: string){
         super(nome,cognome)
